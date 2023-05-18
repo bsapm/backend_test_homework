@@ -1,1 +1,3 @@
+#don't push .doc files
+
 *.doc
